@@ -1,7 +1,7 @@
 /** Debian gnu/linux 5.18.02 cmake version 3.23.2**/
 /** IDE Clion Professional **/
 #include <iostream>
-//#include <memory> // Libreria para usar smart pointers
+// #include <memory> // Libreria para usar smart pointers
 #include "library/alumno.h"
 #include "library/course.h"
 #include "library/list.h"
